@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de2dea9d-db75-4050-8f39-09dbe5923474" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="00ffba8c-6d23-44db-8631-778402d1c32e" />
+  <component name="ProjectId" id="1XOggahPrvK9O8P58oIwcZBZeTt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../LAB1/ANFIS.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\usver\Documents\SI2\lab4_5_6" />
+      <recent name="C:\Users\usver\Documents\SI2\lab1_2_3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lab6">
+    <configuration name="The_simplest_PSO_2D" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab1_2_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The_simplest_PSO_2D.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="genetic_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab1_2_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/genetic_util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab1_2_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab1_2_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Ihor\Documents\SI2\lab4_5_6\lab6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swarm_algorythm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lab1_2_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swarm_algorythm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab6" />
+        <item itemvalue="Python.lab5" />
+        <item itemvalue="Python.genetic_util" />
+        <item itemvalue="Python.swarm_algorythm" />
+        <item itemvalue="Python.The_simplest_PSO_2D" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de2dea9d-db75-4050-8f39-09dbe5923474" name="Default Changelist" comment="" />
+      <created>1580922666878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580922666878</updated>
+      <workItem from="1580922679001" duration="19877000" />
+      <workItem from="1581036169833" duration="874000" />
+      <workItem from="1581098733750" duration="20324000" />
+      <workItem from="1581205303676" duration="19778000" />
+      <workItem from="1581344425506" duration="4106000" />
+      <workItem from="1582215991422" duration="5143000" />
+      <workItem from="1582222753536" duration="4304000" />
+      <workItem from="1582227205526" duration="9739000" />
+      <workItem from="1582240649111" duration="7465000" />
+      <workItem from="1582248159611" duration="2360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="774" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582235480716">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581344195585" />
+    <state x="774" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1582235480716" />
+    <state x="172" y="-19" width="2216" height="778" key="DiffContextDialog" timestamp="1582226523246">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="92" y="-13" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1581344213373" />
+    <state x="172" y="-19" width="2216" height="778" key="DiffContextDialog/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1582226523246" />
+    <state x="868" y="171" key="FileChooserDialogImpl" timestamp="1582226440482">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581469140054" />
+    <state x="868" y="171" key="FileChooserDialogImpl/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1582226440482" />
+    <state width="2517" height="275" key="GridCell.Tab.0.bottom" timestamp="1582250516572">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1323" height="212" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581350876121" />
+    <state width="2517" height="275" key="GridCell.Tab.0.bottom/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1582250516572" />
+    <state width="2517" height="275" key="GridCell.Tab.0.center" timestamp="1582250516572">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1323" height="212" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581350876121" />
+    <state width="2517" height="275" key="GridCell.Tab.0.center/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1582250516572" />
+    <state width="2517" height="275" key="GridCell.Tab.0.left" timestamp="1582250516572">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1323" height="212" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581350876120" />
+    <state width="2517" height="275" key="GridCell.Tab.0.left/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1582250516572" />
+    <state width="2517" height="275" key="GridCell.Tab.0.right" timestamp="1582250516572">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1323" height="212" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581350876121" />
+    <state width="2517" height="275" key="GridCell.Tab.0.right/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1582250516572" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1581344343974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581344343974" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1581344343974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581344343974" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1581344343974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581344343974" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1581344343974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581344343974" />
+    <state x="345" y="10" key="SettingsEditor" timestamp="1582216048655">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580923120118" />
+    <state x="345" y="10" key="SettingsEditor/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1582216048655" />
+    <state x="86" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1582215998055">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="46" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581099371492" />
+    <state x="86" y="270" key="com.intellij.ide.util.TipDialog/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1582215998055" />
+    <state x="2649" y="15" width="1747" height="732" key="dock-window-1" timestamp="1582249967707">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="369" y="-9" width="494" height="712" maximized="true" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1580924872335" />
+    <state x="2649" y="15" width="1747" height="732" key="dock-window-1/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1582249967707" />
+    <state x="676" y="0" width="697" height="735" maximized="true" key="dock-window-2" timestamp="1581014677787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="676" y="0" width="697" height="735" maximized="true" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1581014677787" />
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582245605899">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1582245605899" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab1_2_3$lab2.coverage" NAME="lab2 Coverage Results" MODIFIED="1581021914519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab1_2_3$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1581021738374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab4_5_6$gen_algorythm.coverage" NAME="gen_algorythm Coverage Results" MODIFIED="1581202396470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab4_5_6$genetic_algorithm.coverage" NAME="genetic_algorithm Coverage Results" MODIFIED="1581205119165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab4_5_6$The_simplest_PSO_2D.coverage" NAME="The_simplest_PSO_2D Coverage Results" MODIFIED="1581288096007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab4_5_6$lab4.coverage" NAME="lab4 Coverage Results" MODIFIED="1581125246219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab4_5_6$pso.coverage" NAME="lab6 Coverage Results" MODIFIED="1582249613613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab4_5_6$swarm_algorythm.coverage" NAME="swarm_algorythm Coverage Results" MODIFIED="1581291054187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab4_5_6$lab5.coverage" NAME="lab5 Coverage Results" MODIFIED="1582235494610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab4_5_6$genetic_util.coverage" NAME="genetic_util Coverage Results" MODIFIED="1581341048823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
